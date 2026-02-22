@@ -59,11 +59,13 @@ bashpython -m venv myenvmyenv\Scripts\activate
 
 A beginner-friendly Python application demonstrating core programming concepts.
 
-## How to Run
+- **Variables**: Different data types (strings, integers, floats, booleans, lists, dictionaries)-
+- **Functions**: Creating reusable code blocks with parameters and return values-
+- **Loops**: Both `for` and `while` loops with practical examples-
+- **User Input**: Getting and validating input from users-
+- **Conditional Statements**: Making decisions with if/elif/else-
+- **Error Handling**: Using try/except blocks for robust input validation-
+- **Data Structures**: Working with lists and dictionaries
 
-1. Ensure Python 3.8+ is installed
-2. Open terminal/command prompt in project directory
-3. Run the program:
-   ```bash
-   project_Ai.ipynb
+
 
